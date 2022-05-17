@@ -6,6 +6,6 @@ bb = math.pow(b, 2)
 hh = aa+bb
 cc = math.sqrt(hh)
 d = str(cc)
-e = str(aa)
-f = str(bb)
+e = str(a)
+f = str(b)
 print(e+" squared + " +f+" squared equals " + d+" squared")
